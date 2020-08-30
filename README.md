@@ -1,4 +1,4 @@
-![Banner](./banner.png)
+![Banner](https://github.com/frattezi/frattezi/blob/master/banner.png)
 
 # Pedro Frattezi Silva
 
