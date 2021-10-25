@@ -2,7 +2,7 @@
 
 # Pedro Frattezi Silva
 
-- 🔭 I’m currently working as Software Engineer at Catho
+- 🔭 I’m currently working as Senior Fullstack at Jusbrasil
 - 🌱 I’m currently learning Terraform and Microservices
 - 📫 How to reach me: pfrattezi@gmail.com
 - 😄 Pronouns: he/his/him
