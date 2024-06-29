@@ -2,8 +2,8 @@
 
 # Pedro Frattezi Silva
 
-- 🔭 I’m currently working as Senior Fullstack at Jusbrasil
-- 🌱 I’m currently learning Terraform and Microservices
+- 🔭 I’m currently working as Senior Fullstack Engineer at Able
+- 🌱 I’m currently learning: Typescript, NestJS and Next.js, Datadog, AWS.
 - 📫 How to reach me: pfrattezi@gmail.com
 - 😄 Pronouns: he/his/him
 
